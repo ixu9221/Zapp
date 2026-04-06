@@ -3,6 +3,72 @@
   "name": "Italy - Serie A",
   "matches": [
     {
+      "date": "2026-04-05",
+      "home": "Inter",
+      "away": "Roma",
+      "fthg": 5,
+      "ftag": 2,
+      "hc": 7,
+      "ac": 4,
+      "hy": 0,
+      "ay": 1
+    },
+    {
+      "date": "2026-04-05",
+      "home": "Pisa",
+      "away": "Torino",
+      "fthg": 0,
+      "ftag": 1,
+      "hc": 1,
+      "ac": 2,
+      "hy": 1,
+      "ay": 0
+    },
+    {
+      "date": "2026-04-05",
+      "home": "Cremonese",
+      "away": "Bologna",
+      "fthg": 1,
+      "ftag": 2,
+      "hc": 2,
+      "ac": 4,
+      "hy": 2,
+      "ay": 3
+    },
+    {
+      "date": "2026-04-04",
+      "home": "Sassuolo",
+      "away": "Cagliari",
+      "fthg": 2,
+      "ftag": 1,
+      "hc": 2,
+      "ac": 2,
+      "hy": 1,
+      "ay": 0
+    },
+    {
+      "date": "2026-04-04",
+      "home": "Verona",
+      "away": "Fiorentina",
+      "fthg": 0,
+      "ftag": 1,
+      "hc": 9,
+      "ac": 1,
+      "hy": 3,
+      "ay": 1
+    },
+    {
+      "date": "2026-04-03",
+      "home": "Lazio",
+      "away": "Parma",
+      "fthg": 1,
+      "ftag": 1,
+      "hc": 7,
+      "ac": 2,
+      "hy": 1,
+      "ay": 2
+    },
+    {
       "date": "2026-03-22",
       "home": "Como",
       "away": "Pisa",

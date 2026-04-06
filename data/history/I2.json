@@ -3,6 +3,28 @@
   "name": "Italy - Serie B",
   "matches": [
     {
+      "date": "2026-04-04",
+      "home": "Palermo",
+      "away": "Avellino",
+      "fthg": 2,
+      "ftag": 0,
+      "hc": 1,
+      "ac": 0,
+      "hy": 2,
+      "ay": 3
+    },
+    {
+      "date": "2026-04-04",
+      "home": "Frosinone",
+      "away": "Padova",
+      "fthg": 2,
+      "ftag": 0,
+      "hc": 7,
+      "ac": 5,
+      "hy": 1,
+      "ay": 2
+    },
+    {
       "date": "2026-03-22",
       "home": "Bari",
       "away": "Carrarese",
