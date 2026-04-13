@@ -3,26 +3,103 @@
   "name": "Germany - Bundesliga",
   "matches": [
     {
-      "date": "2026-04-05",
-      "home": "Leverkusen",
-      "away": "Wolfsburg",
-      "fthg": 6,
-      "ftag": 3,
-      "hc": 12,
+      "date": "2026-04-12",
+      "home": "FC Koln",
+      "away": "Werder Bremen",
+      "fthg": 3,
+      "ftag": 1,
+      "hc": 8,
+      "ac": 5,
+      "hy": 3,
+      "ay": 2
+    },
+    {
+      "date": "2026-04-12",
+      "home": "Stuttgart",
+      "away": "Hamburg",
+      "fthg": 4,
+      "ftag": 0,
+      "hc": 8,
       "ac": 2,
+      "hy": 2,
+      "ay": 1
+    },
+    {
+      "date": "2026-04-12",
+      "home": "Mainz",
+      "away": "Freiburg",
+      "fthg": 0,
+      "ftag": 1,
+      "hc": 6,
+      "ac": 4,
       "hy": 1,
       "ay": 3
     },
     {
-      "date": "2026-04-05",
-      "home": "M'gladbach",
-      "away": "Heidenheim",
+      "date": "2026-04-11",
+      "home": "Dortmund",
+      "away": "Leverkusen",
+      "fthg": 0,
+      "ftag": 1,
+      "hc": 5,
+      "ac": 5,
+      "hy": 3,
+      "ay": 0
+    },
+    {
+      "date": "2026-04-11",
+      "home": "Heidenheim",
+      "away": "Union Berlin",
+      "fthg": 3,
+      "ftag": 1,
+      "hc": 3,
+      "ac": 5,
+      "hy": 0,
+      "ay": 2
+    },
+    {
+      "date": "2026-04-11",
+      "home": "RB Leipzig",
+      "away": "M'gladbach",
+      "fthg": 1,
+      "ftag": 0,
+      "hc": 11,
+      "ac": 4,
+      "hy": 4,
+      "ay": 1
+    },
+    {
+      "date": "2026-04-11",
+      "home": "Wolfsburg",
+      "away": "Ein Frankfurt",
+      "fthg": 1,
+      "ftag": 2,
+      "hc": 7,
+      "ac": 7,
+      "hy": 2,
+      "ay": 1
+    },
+    {
+      "date": "2026-04-11",
+      "home": "St Pauli",
+      "away": "Bayern Munich",
+      "fthg": 0,
+      "ftag": 5,
+      "hc": 3,
+      "ac": 4,
+      "hy": 1,
+      "ay": 2
+    },
+    {
+      "date": "2026-04-10",
+      "home": "Augsburg",
+      "away": "Hoffenheim",
       "fthg": 2,
       "ftag": 2,
-      "hc": 2,
-      "ac": 3,
-      "hy": 4,
-      "ay": 0
+      "hc": 4,
+      "ac": 4,
+      "hy": 5,
+      "ay": 3
     },
     {
       "date": "2026-04-05",
@@ -37,17 +114,17 @@
     },
     {
       "date": "2026-04-05",
-      "home": "Hoffenheim",
-      "away": "Mainz",
-      "fthg": 1,
+      "home": "Ein Frankfurt",
+      "away": "FC Koln",
+      "fthg": 2,
       "ftag": 2,
-      "hc": 7,
-      "ac": 3,
-      "hy": 4,
-      "ay": 1
+      "hc": 8,
+      "ac": 0,
+      "hy": 1,
+      "ay": 2
     },
     {
-      "date": "2026-04-05",
+      "date": "2026-04-04",
       "home": "Freiburg",
       "away": "Bayern Munich",
       "fthg": 2,
@@ -56,17 +133,6 @@
       "ac": 8,
       "hy": 3,
       "ay": 3
-    },
-    {
-      "date": "2026-04-04",
-      "home": "Stuttgart",
-      "away": "Dortmund",
-      "fthg": 0,
-      "ftag": 2,
-      "hc": 5,
-      "ac": 2,
-      "hy": 2,
-      "ay": 4
     },
     {
       "date": "2026-04-04",
@@ -81,6 +147,39 @@
     },
     {
       "date": "2026-04-04",
+      "home": "Hoffenheim",
+      "away": "Mainz",
+      "fthg": 1,
+      "ftag": 2,
+      "hc": 7,
+      "ac": 3,
+      "hy": 4,
+      "ay": 1
+    },
+    {
+      "date": "2026-04-04",
+      "home": "Leverkusen",
+      "away": "Wolfsburg",
+      "fthg": 6,
+      "ftag": 3,
+      "hc": 12,
+      "ac": 2,
+      "hy": 1,
+      "ay": 3
+    },
+    {
+      "date": "2026-04-04",
+      "home": "M'gladbach",
+      "away": "Heidenheim",
+      "fthg": 2,
+      "ftag": 2,
+      "hc": 2,
+      "ac": 3,
+      "hy": 4,
+      "ay": 0
+    },
+    {
+      "date": "2026-04-04",
       "home": "Werder Bremen",
       "away": "RB Leipzig",
       "fthg": 1,
@@ -91,15 +190,15 @@
       "ay": 1
     },
     {
-      "date": "2026-04-03",
-      "home": "Ein Frankfurt",
-      "away": "FC Koln",
-      "fthg": 2,
+      "date": "2026-04-04",
+      "home": "Stuttgart",
+      "away": "Dortmund",
+      "fthg": 0,
       "ftag": 2,
-      "hc": 8,
-      "ac": 0,
-      "hy": 1,
-      "ay": 2
+      "hc": 5,
+      "ac": 2,
+      "hy": 2,
+      "ay": 4
     },
     {
       "date": "2026-03-22",
