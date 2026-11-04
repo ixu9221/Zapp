@@ -119,11 +119,11 @@
       "strDescriptionEN": null,
       "strHomeTeam": "Internacional",
       "strAwayTeam": "Coritiba",
-      "intHomeScore": null,
+      "intHomeScore": "1",
       "intHomeScoreExtra": null,
       "intAwayScoreExtra": null,
       "intRound": "34",
-      "intAwayScore": null,
+      "intAwayScore": "0",
       "intSpectators": null,
       "strOfficial": "",
       "strWeather": null,
@@ -152,7 +152,7 @@
       "strMap": null,
       "strTweet1": null,
       "strVideo": null,
-      "strStatus": "NS",
+      "strStatus": "FT",
       "strPostponed": "no",
       "strLocked": "unlocked"
     }
